@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JV</h1>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Next.js**
 - 📫 How to reach me: **jovenvictorlogo@gmail.com**
 
 <p align="center">
