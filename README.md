@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benok</h1>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Vue.js**
 - 📫 How to reach me: **jovenvictorlogo@gmail.com**
 
 <div align="center">
