@@ -6,5 +6,5 @@
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eggzylog&layout=donut&hide=batchfile,html,css" alt="top languages" /></p>
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eggzylog&" alt="eggzylog" /></p>
+  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eggzylog&" alt="eggzylog" /></p> -->
 </div>
