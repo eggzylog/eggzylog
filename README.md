@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benok</h1>
 
-- 🌱 I’m currently learning **Strapi**
+- 🌱 I’m currently learning **SvelteKit**
 - 📫 How to reach me: **jovenvictorlogo@gmail.com**
 
 <div align="center">
